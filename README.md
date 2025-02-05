@@ -8,3 +8,6 @@ HEX, RGB Color picker, Advanched Eyedropper, Find color code on any page
 
 3. Chrome extensions "Image Downloader"
 It will download a photo from the website you visit. The downloaded file will be saved in storage or the device's memory.
+
+4. Chrome extensions "Awsome Screen Recorder & Screenshot"
+5. Chrome extensions "Loom Screen Recorder & Screen Capture"
